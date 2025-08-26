@@ -1,6 +1,52 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Stéphane !
+
+💻 Développeur web passionné par **Vue.js**, **Laravel**, et les applications modernes.  
+Je crée des projets pour apprendre, expérimenter et partager mes compétences.
 
 <!--
+---
+
+## 🚀 Mes Projets
+
+### 🌐 Frontend
+- [Portfolio en Vue.js](https://github.com/stephane-aravit/Portfolio)  
+  *Mon portfolio personnel avec Vue.js et Tailwind CSS*  
+  🔗 [Voir en ligne](https://mon-portfolio.netlify.app)
+
+- [App Vue.js - Gestion de tâches](https://github.com/stephane-aravit/todo-vue)  
+  *Application simple pour gérer ses tâches*  
+
+---
+
+### ⚙️ Backend
+- [API Laravel - Gestion utilisateurs](https://github.com/stephane-aravit/api-users)  
+  *API REST pour gérer les utilisateurs et l’authentification*  
+
+---
+
+### 📱 Projets fullstack
+- [Application Finances](https://github.com/stephane-aravit/app-finances)  
+  *Suivi de budget et gestion des dépenses*  
+
+---
+
+## 🛠️ Compétences
+- **Langages** : JavaScript, PHP, SQL  
+- **Frameworks** : Vue.js, Laravel, Node.js  
+- **Outils** : Git, VS Code, Docker, Postman  
+
+---
+
+## 📫 Me contacter
+- 📧 Email : [tonemail@example.com](mailto:tonemail@example.com)  
+- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
+- 🐙 GitHub : [github.com/stephane-aravit](https://github.com/stephane-aravit)  
+
+---
+
+✨ N’hésite pas à explorer mes repos ci-dessous !
+
+
 **stephane-aravit/stephane-aravit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
