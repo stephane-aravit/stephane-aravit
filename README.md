@@ -1,7 +1,9 @@
-# 👋 Salut, moi c’est Stéphane !
+# 👋 Salut ! Bienvenue sur mon portfolio github.
 
-💻 Développeur web passionné par **Vue.js**, **Laravel**, et les applications modernes.  
-Je crée des projets pour apprendre, expérimenter et partager mes compétences.
+💻 Développeur web depuis 2011, j'ai commencé à intégrer des maquettes sur cms et maintenant je me passionne pour les applications modernes, notamment **Laravel** & **Vue.js**.
+Je crée des projets pour apprendre, expérimenter et je partage ici mon expérience et mes compétences.
+
+## Mon CV
 
 <!--
 ---
