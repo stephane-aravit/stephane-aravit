@@ -31,7 +31,7 @@ Je crée des projets pour apprendre, expérimenter et je partage ici mon expéri
 - **Outils** : VS Code, Composer/Npm, Vite/Webpack, Git, Docker (Portainer), Postman
 
 ## 👤 Mon CV
-[cv-stephane-aravit-2025.pdf](cv/cv-stephane-aravit-2025.pdf)
+[cv-stephane-aravit-2025.pdf](https://github.com/stephane-aravit/stephane-aravit/raw/main/cv/cv-stephane-aravit-2025.pdf)
 
 ---
 
