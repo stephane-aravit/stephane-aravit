@@ -1,6 +1,6 @@
 # 👋 Salut ! Bienvenue sur mon portfolio github.
 
-💻 Développeur web depuis 2011, j'ai commencé à intégrer des maquettes sur cms et maintenant je me passionne pour les applications modernes, notamment **Laravel** & **Vue.js**.
+💻 Développeur web depuis 2011, j'ai commencé à intégrer des maquettes sur cms et depuis 2020 je me passionne pour les applications modernes, notamment **Laravel** & **Vue.js**.
 Je crée des projets pour apprendre, expérimenter et je partage ici mon expérience et mes compétences.
 
 ---
@@ -8,24 +8,23 @@ Je crée des projets pour apprendre, expérimenter et je partage ici mon expéri
 ## 🚀 Mes Projets
 
 ### 🌐 Frontend
-- [App Vue.js - Gestion de tâches](https://github.com/stephane-aravit/todolist)  
-  *Application simple pour gérer des tâches*
-🔗 [Voir en ligne](https://tubular-sherbet-7e79ad.netlify.app/)
+- [TODOLIST avec Vite/Vue/Tailwind](https://github.com/stephane-aravit/todolist)  
 
-- [Portfolio en Vue.js] A VENIR  
+- [METEO] A VENIR
+  
+- [PORTFOLIO] A VENIR  
 
 ---
 
 ### ⚙️ Backend
-- [API Laravel - Gestion droits utilisateurs] A VENIR  
+- [API REST DROITS UTILISATEURS avec Laravel] A VENIR  
 
 ---
 
 ### 📱 Fullstack
-- [Blog Laravel/Vue] (https://github.com/stephane-aravit/blog)
-  *Gestion articles/catégories/commentaires/utilisateurs*
+- [BLOG avec Laravel/Inertia/Vue] (https://github.com/stephane-aravit/blog)
 
-- [Application Finances] A VENIR  
+- [FINANCES] A VENIR  
   
 ---
 
