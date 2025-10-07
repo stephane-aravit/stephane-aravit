@@ -1,6 +1,6 @@
 # 👋 Salut ! Bienvenue sur mon portfolio github.
 
-💻 Développeur web depuis 2011, j'ai commencé à intégrer des maquettes sur cms et depuis 2020 je me passionne pour les applications modernes, notamment **Laravel** & **Vue.js**.
+💻 Développeur web depuis 2011, j'ai commencé à intégrer des maquettes, déployé et personnalisé des cms, construire des sites de A à Z avec des frameworks et depuis 2020 je me passionne pour les applications modernes, notamment **Laravel** & **Vue.js**.  
 Je crée des projets pour apprendre, expérimenter et je partage ici mon expérience et mes compétences.
 
 ---
@@ -14,35 +14,31 @@ Je crée des projets pour apprendre, expérimenter et je partage ici mon expéri
   
 - [PORTFOLIO] A VENIR  
 
----
-
 ### ⚙️ Backend
 - [API REST DROITS UTILISATEURS avec Laravel] A VENIR  
 
----
+### 🧩 Fullstack
+- [BLOG avec Laravel/Inertia/Vue/Sql](https://github.com/stephane-aravit/blog)
 
-### 📱 Fullstack
-- [BLOG avec Laravel/Inertia/Vue] (https://github.com/stephane-aravit/blog)
-
-- [FINANCES] A VENIR  
+- [FINANCES avec Node/Express/Vue/Nuxt/NoSql] A VENIR  
   
 ---
 
 ## 🛠️ Compétences
-- **Langages** : PHP, Javascript, Typescript, Html, Css, Sql  
-- **Frameworks** : Laravel, Symfony, Vue, Node
-- **Outils** : VS Code, Git, Docker, Postman
+- **Langages** : PHP, Javascript, Typescript, Html, Css, Sql
+- **Frameworks** : Laravel, Symfony, Express, Vue, Tailwind, Bootstrap
+- **Sgbd** : Mysql, PostgreSql, MongoDB
+- **Outils** : VS Code, Composer/Npm, Vite/Webpack, Git, Docker (Portainer), Postman
 
----
-
-## Mon CV
-[github.com/stephane-aravit/cv-stephane-aravit-2025.pdf](https://github.com/stephane-aravit/cv-stephane-aravit-2025.pdf)
+## 👤 Mon CV
+[cv-stephane-aravit-2025.pdf](cv/cv-stephane-aravit-2025.pdf)
 
 ---
 
 ## 📫 Me contacter
-- 📧 Email : [tonemail@example.com](mailto:tonemail@example.com)  
-- 💼 LinkedIn : [https://www.linkedin.com/in/stéphane-aravit-ba8729a0](https://www.linkedin.com/in/st%C3%A9phane-aravit-ba8729a0/)  
+- 📱 Téléphone : 0620785361
+- 📧 Email : [stephane.aravit@gmail.com](mailto:stephane.aravit@gmail.com)  
+- 💼 LinkedIn : [www.linkedin.com/in/stephane-aravit](https://www.linkedin.com/in/stephane-aravit)  
 - 🐙 GitHub : [github.com/stephane-aravit](https://github.com/stephane-aravit)  
 
 ---
